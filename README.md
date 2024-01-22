@@ -1,11 +1,9 @@
 # Little Lemon Booking Website
 
-## Project Description
-This project was created during Meta's Coursera Front-End Development course. This website was the culmuniation of the Front-End Development Track.
 
-This website showcased implementing a booking application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React for creating the website. This also features utilzing API calls.
+This website exemplifies the implementation of a sophisticated booking application within the framework of the Little Lemon Website. Leveraging React Components, it showcases a nuanced understanding of React for web development, seamlessly integrating advanced functionalities. The utilization of API calls further enhances the website's capabilities, demonstrating a commitment to best practices in web development.
 
-Please note: the only functionality working on this website besides the design is the Reserve a Table function.
+It is imperative to highlight that, beyond the aesthetically pleasing design, the website stands out for its fully functional "Reserve a Table" feature. This not only serves as a testament to the technical prowess exhibited in creating the website but also underscores a commitment to delivering a seamless and practical user experience.
 
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
