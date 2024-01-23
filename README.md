@@ -11,3 +11,8 @@ Here are some screeenshots of the application showcasing the Booking functionali
 ![little lemon website table booking](/src/images/github-cover.png)
 
 
+![MQN3aTbrRYC3Gltj7zRLvg_802c380f429147d986aec0dd4d2d85e1_image](https://github.com/quangminhtra/Lemon-Restaurant/assets/130938825/0152d03b-29f9-4ee0-b85d-98c4d20bf4ee)
+
+
+![Screenshot 2024-01-22 223845](https://github.com/quangminhtra/Lemon-Restaurant/assets/130938825/c3900610-7416-4b12-820b-b012c3d06014)
+
